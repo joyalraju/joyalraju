@@ -9,7 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.youtube.com/user/jass4joyal/ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="joyaraju | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="joyalraju | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+[youtube]: https://www.youtube.com/user/jass4joyal
+[linkedin]: https://linkedin.com/in/joyal-raju-10880010a
