@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi Everyone, I'm JOYAL 👋
 
-<!--
-**joyalraju/joyalraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an Electrical and Electronics Engineer as well as an Embedded System Engineering Design PG Degree holder!! 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 🤣
+- ✨ Enthusiastic in the field of Robotics and Micro-controllers
+- 👯 I’m looking forward for a perfect opening
+- ⚡ Fun fact: I love travelling and play badminton 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="JO-Tech solutions | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="joyalraju | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
