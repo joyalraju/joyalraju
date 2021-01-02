@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm joyal</h1>
-<h3 align="center">I'm an Electrical and Electronics Engineer as well as an Embedded System Engineering Design PG Degree holder!!</h3>
+<h3 align="center">I'm an Electrical and Electronics Engineer/Embedded System Engineering Design PG Diploma holder with 2 years of experience!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalraju&label=Profile%20views&color=0e75b6&style=flat" alt="joyalraju" /> </p>
 
