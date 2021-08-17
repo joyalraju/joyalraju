@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalraju&label=Profile%20views&color=0e75b6&style=flat" alt="joyalraju" /> </p>
 
+- 🏗 I'm currently working as **repair technician** 
+
 - 🌱 I’m currently learning **everything 🤣**
 
 - 🤝 I’m looking for help with **a perfect opening**
